@@ -1,0 +1,5 @@
+streamlit
+sentence-transformers
+requests
+beautifulsoup4
+torch
